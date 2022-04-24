@@ -1,6 +1,4 @@
-# au2-webpack-azure-stapp
-
-Aurelia 2 Webpack based skeleton configured to be used with Azure Static Web Apps
+# azure-stapp-skeleton
 
 This project is bootstrapped by [aurelia/new](https://github.com/aurelia/new).
 
@@ -15,18 +13,16 @@ This project is bootstrapped by [aurelia/new](https://github.com/aurelia/new).
 It builds all files to dist folder. To deploy to production server, copy all the `dist/*` files to production root folder.
 
 For example
-
 ```
 dist/index.html
 dist/foo.12345.js
 ```
-
 Copy to production root folder
-
 ```
 root_folder/index.html
 root_folder/foo.12345.js
 ```
+
 
 ## Analyze webpack bundle
 
