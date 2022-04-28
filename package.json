@@ -8,7 +8,8 @@
   },
   "license": "UNLICENSED",
   "dependencies": {
-    "aurelia": "latest"
+    "aurelia": "latest",
+    "aurelia-direct-router": "latest"
   },
   "devDependencies": {
     "eslint": "^8.12.0",
