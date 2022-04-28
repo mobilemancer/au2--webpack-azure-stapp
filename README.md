@@ -31,3 +31,11 @@ root_folder/foo.12345.js
 ## Analyze webpack bundle
 
     npm run analyze
+
+## Using the Azure Static Web App CLI
+
+Start the app with the Azure Static Web App CLI
+
+```
+npx @azure/static-web-apps-cli start http://localhost:9000 --run "npm start"
+```
